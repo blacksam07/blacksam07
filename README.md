@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @blacksam07
-- 👀 I’m interested in Ruby, NodeJs, Go and AWS
+- 👀 I’m interested in Ruby, NodeJs, Go, Docker, AWS, Azure and more.
+- 🧠 I'm currently learning Blockchain
