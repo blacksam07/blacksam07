@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @blacksam07
+- 👀 I’m interested in Ruby, NodeJs, Go and AWS
